@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ayaklar
+  - PlayerParent
+  - Platform
+  - OlumculPlatform
+  - Olum
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Arkaplan
+    uniqueID: 4286279309
+    locked: 0
+  - name: Gezegen
+    uniqueID: 748916931
+    locked: 0
+  - name: Platform
+    uniqueID: 3544295295
+    locked: 0
+  - name: Altin
+    uniqueID: 2371046967
+    locked: 0
+  - name: UI
+    uniqueID: 2978915449
+    locked: 0
